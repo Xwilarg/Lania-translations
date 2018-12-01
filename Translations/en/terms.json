@@ -13,7 +13,7 @@
 	"dontExist" : "I didn't find any guild with this id.",
 	"alreadyBanned" : "This is was already ban.",
 	"banned" : "This id is now banned",
-	"gateClosedBan" : "{0} gates were closed."
+	"gateClosedBan" : "{0} gates were closed.",
 	"isBanned" : "You can't use this command since you were banned.",
 	"isBannedImage" : "You can't send images since you were banned.",
 	"userBanned" : "You were banned from using the gate because of the following reason: ",
@@ -26,7 +26,7 @@
 	"emoteHelp" : "Emotes you add are shown to the image sender.",
 	"waitImage" : "You must wait at least {0} before sending another image.",
 	"gateChannel" : "The gate is open in {0}.",
-	"noGateHere" : "There is no gate open is this guild.";
+	"noGateHere" : "There is no gate open is this guild.",
 	"nbGates1" : "There are a total of {0} gates opened.",
 	"nbGates2" : "You can receive images from {0} of them.",
 	"nbGates3" : "You can send images in {0} of them.",
