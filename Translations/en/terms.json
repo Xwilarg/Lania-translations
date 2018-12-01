@@ -60,7 +60,7 @@
 	"timeDays" : "{0} days, {1} hours, {2} minutes and {3} seconds",
 	"languageHelp" : "You must provide the language you want me to speak in.",
 	"invalidLanguage" : "I don't know this language.",
-	"languageChanged" : "My language for this guild was succesfully changed.",
+	"languageChanged" : "My language for this guild was successfully changed.",
 	
 	"dateTimeFormat" : "dd/MM/yy HH:mm:ss",
 	
