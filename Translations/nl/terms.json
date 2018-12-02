@@ -52,8 +52,8 @@
 	"help18" : "**Language [taal]:** Stel de bot taal in",
 	
 	"uptime" : "Uptime",
-	"latestVersion" : "Laatste version",
-	"author" : "Author",
+	"latestVersion" : "Laatste versie",
+	"author" : "Gemaakt door",
 	"invitationLink" : "Uitnodigings link",
 	"timeSeconds" : "{0} seconden",
 	"timeMinutes" : "{0} minuten en {1} seconden",
