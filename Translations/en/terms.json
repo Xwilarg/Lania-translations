@@ -17,7 +17,7 @@
 	"isBanned" : "You can't use this command since you were banned.",
 	"isBannedImage" : "You can't send images since you were banned.",
 	"userBanned" : "You were banned from using the gate because of the following reason: ",
-	"nochan" : "There is no channel available to receive your image.",
+	"noChan" : "There is no channel available to receive your image.",
 	"waitMsg" : "Please wait...",
 	"reported" : "This message was reported.",
 	"lastImage" : "(Last image from here)",
@@ -66,5 +66,6 @@
 	"dateTimeFormat" : "dd/MM/yy HH:mm:ss",
 	
 	"error" : "An error occured while executing last command.\nHere are some details about it: {0}"
+	"invalidKey" : "Missing key {0} in translation files.",
 
 }

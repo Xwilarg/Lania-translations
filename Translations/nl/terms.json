@@ -17,7 +17,7 @@
 	"isBanned" : "Je kan dit command niet gebruiken omdat je verbannen bent.",
 	"isBannedImage" : "Je kan geen afbeeldingen sturen omdat je verbannen bent.",
 	"userBanned" : "Je bent verbannen van de gate voor de volgende reden: ",
-	"nochan" : "Er is geen kanaal beschrikbaar om je afbeelding te ontvangen.",
+	"noChan" : "Er is geen kanaal beschrikbaar om je afbeelding te ontvangen.",
 	"waitMsg" : "Even geduld...",
 	"reported" : "Dit bericht is gerapporteerd.",
 	"lastImage" : "(Laatste afbeelding vanaf hier)",
