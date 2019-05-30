@@ -66,6 +66,6 @@
 	"dateTimeFormat" : "dd/MM/yy HH:mm:ss",
 	
 	"error" : "An error occured while executing last command.\nHere are some details about it: {0}",
-	"invalidKey" : "Missing key {0} in translation files.",
+	"invalidKey" : "Missing key {0} in translation files."
 
 }
