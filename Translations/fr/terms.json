@@ -65,7 +65,7 @@
 	
 	"dateTimeFormat" : "dd/MM/yy HH:mm:ss",
 	
-	"error" : "Une erreur est apparu lors de l'execution de la dernière commande.\nVoici quelques détails à propos de cette dernière : {0}"
+	"error" : "Une erreur est apparu lors de l'execution de la dernière commande.\nVoici quelques détails à propos de cette dernière : {0}",
 	"invalidKey" : "Clé {0} manquante dans les fichiers de traduction.",
 
 }
