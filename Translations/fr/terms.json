@@ -31,6 +31,7 @@
 	"nbGates2" : "Vous pouvez recevoir des images de {0} d'entre eux.",
 	"nbGates3" : "Vous pouvez envoyer des images à {0} d'entre eux.",
 	"fileSent" : "Votre fichier à été envoyé à {0} guildes.",
+	"onlyManage" : "Je peux uniquement répondre à ce genre de demande de quelqu'un qui à la permission 'Gérer le serveur'.",
 
 	"help1" : "Mon rôle est de créer un portail à image entre les guildes.",
 	"help2" : "Si c'est la première fois que vous utilisez cette fonctionnalitée, allez dans un channel et faîtes @Lania#2961 Gate open",
