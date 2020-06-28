@@ -1,4 +1,7 @@
 {
+	"error" : "An error occured while executing last command.\nHere are some details about it: {0}",
+	"invalidKey" : "Missing key {0} in translation files.",
+
 	"onlyManage" : "I only can receive that kind of order from someone who have the 'Manage Server' permission.",
 	"isBanned" : "You can't use this command since you were banned.",
 	"gateAlredyOpened" : "There is already a gate opened in this channel.",
@@ -6,9 +9,11 @@
 	"noGate" : "There is no gate in this channel",
 	"gateOpened" : "The gate is open.",
 	"gateClosed" : "The gate is close.",
+	"gateUnknown" : "This channel does not exist.",
 
 	"noGateHere" : "There is no gate open is this guild.",
-	"gateOpenedIn" : "Gate opened in {0} ({1} channel).",
+	"gateOpenedIn" : "Gate opened in {0} ({1} channel, receive/send guild/gates: {2}/{3} {4}/{5}).",
+	"nbGates" : "There are a total of {0} gates opened in {1} guilds.",
 
 	"onlyUser" : "Only {0} can do this command.",
 	"notUlong" : "id must be an ulong.",
@@ -22,6 +27,11 @@
 	"nsfwImage" : "This image was detected as NSFW by our filter, consequently it wasn't send.",
 	"wrongNsfw" : "Please make note that we only allow nudity in NSFW channels.",
 	"waitImage" : "You must wait {0} seconds between each images you're sending.",
+	"fileSent" : "Your file was sent to {0} guilds.",
+	"lastImage" : "(Last image from here)",
+	"nothingYet" : "(Nothing yet)",
+	"imageReceived" : "You received an image though the gate.",
+	"emoteHelp" : "Emotes you add are shown to the image sender.",
 
 
 
@@ -32,15 +42,7 @@
 	"dontExist" : "I didn't find any guild with this id.",
 	"noChan" : "There is no channel available to receive your image.",
 	"reported" : "This message was reported.",
-	"lastImage" : "(Last image from here)",
-	"nothingYet" : "(Nothing yet)",
-	"imageReceived" : "You received an image though the gate.",
-	"emoteHelp" : "Emotes you add are shown to the image sender.",
 	"gateChannel" : "The gate is open in {0}.",
-	"nbGates1" : "There are a total of {0} gates opened.",
-	"nbGates2" : "You can receive images from {0} of them.",
-	"nbGates3" : "You can send images in {0} of them.",
-	"fileSent" : "Your file was sent to {0} guilds.",
 
 	"help1" : "My role is to create an image gate between guilds.",
 	"help2" : "If it's your first time using this feature, go in a channel and do @Lania#2961 Gate open",
@@ -74,8 +76,5 @@
 	"languageChanged" : "My language for this guild was successfully changed.",
 	
 	"dateTimeFormat" : "dd/MM/yy HH:mm:ss",
-	
-	"error" : "An error occured while executing last command.\nHere are some details about it: {0}",
-	"invalidKey" : "Missing key {0} in translation files."
 
 }
